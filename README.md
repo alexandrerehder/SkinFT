@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1920" height="400" style="border-radius: 10px" src="mobile/src/assets/SFT.png" alt="Banner">
+    <img width="1920" height="500" style="border-radius: 10px" src="mobile/src/assets/SFT.png" alt="Banner">
 </p>
 
 ##
